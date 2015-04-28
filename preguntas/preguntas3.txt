@@ -1,0 +1,16 @@
+1. 
+2. Hipertex Marckup Language
+
+3. Php permite un mejor contro de nuestras bases de datos, y javascrip permite mejorar las funcionalidades de nuestra pagina web
+   los dos trabajan en conjuto para mejorar el dinamiesmo de nuestra pagina web
+
+4. los css son archivos o estilos que generamos que nos ayudan a organizar de mejor manera la codificacion, 
+   estos estilos permiten mejorar la estetica de nuestro programa.
+
+5. Al ser una herramienta open source una manera de corregir un error es mediante la comunidad, esto permite la mejora continua 
+   ya que contamos con miles de personas que pueden ayudarnos a encontrar una solucion
+
+6. 
+7.son servidores locales
+8. FTP o file trasnfer protocol nos permite realizar una transferencia de datos de una manera mas dinamica
+9. 
