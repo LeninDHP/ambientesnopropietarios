@@ -1,0 +1,35 @@
+1. <?php   ?>
+2. ;
+3. para determinar variables
+4. variables, funciones que van a ser utilizadas durante todo el proyecto}
+5. php es flexible en cuanto al uso de variable puede convertir un string a un entero y viceversa
+
+$pi=5
+$area=5+"m";
+
+6. V, F
+7. la primera permite aumentar una variable de acuerdo a lo establecido y la otra permite realizar un aumento a un contador
+8. no proque ya esta predefinada, esta variable no puede ser modificada a lo largo de todo el proyecto
+9. con variables globales establecidas por el programador
+10.
+
+a.
+
+mediante variables globales
+
+$numero1=0;
+$numero2=0;
+
+funcion sumar(numero1,numero2)
+{
+
+$suma=numero1+numero2;
+
+}
+
+
+b.
+
+
+
+$suma=
