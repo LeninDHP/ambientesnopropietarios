@@ -1,0 +1,29 @@
+1.null  y 1
+
+
+
+
+2.una manera de realizar esto es ubicar parentecis entre los diferentes valores y operadores como por ejemplo:
+
+((5+6)*(3-2)/4)
+
+
+3.significa que varios atributos pueden poseer los mismos valores como por ejemplo:
+
+
+$a=$b=$c=0;
+
+
+
+
+4. se debe utilizar para evitar que php convierta los tipos de datos que mas les conviente por ejemplo 
+en el siguiente caso.
+
+
+
+5. continue
+
+6. es un operador que se lo puede utilizar para simplificar ciertos tipos de funciones como
+por ejemplo if una manera de utilizarlo es la siguiente:
+
+$a=$b<=1?"verificacion realizada":"vereificacion rechazada";
