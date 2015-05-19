@@ -1,0 +1,56 @@
+
+		#funcionStyle{
+
+			font-family:Arial;
+
+			font-size:17px;
+
+
+
+		}
+
+		#funcionStyle caption {
+
+			text-align:left;
+
+			padding:5px 15px;
+
+			background-color:#7f0000 ; 
+
+			color:#fff;
+
+			font-weight:bold;
+
+			 text-align:center;
+
+		}
+
+		#funcionStyle th {
+
+			background-color:#983232;
+
+			color:#fff;
+
+			width:40px;
+
+		}
+
+		#funcionStyle td {
+
+			text-align:right;
+
+			padding:2px 5px;
+
+			color:#3E41EC;
+
+			background-color:silver;
+
+		}
+
+		#funcionStyle .hoy {
+
+			background-color:red;
+			font-weight:black;
+
+
+		}
