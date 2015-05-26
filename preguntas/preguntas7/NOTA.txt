@@ -1,0 +1,5 @@
+3/10
+
+Se pudo haber hecho de esta manera.
+Pero te falto declarar el arreglo de manera que funcione
+así e imprimir el resultado en la tabla.
