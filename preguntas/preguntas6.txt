@@ -1,4 +1,5 @@
-1.null  y 1
+NOTA: 9/10
+X 1.null  y 1
 
 
 

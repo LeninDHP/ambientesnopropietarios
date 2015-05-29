@@ -1,4 +1,5 @@
-1. 
+NOTA: 7/10
+X 1. 
 2. Hipertex Marckup Language
 
 3. Php permite un mejor contro de nuestras bases de datos, y javascrip permite mejorar las funcionalidades de nuestra pagina web
@@ -10,7 +11,7 @@
 5. Al ser una herramienta open source una manera de corregir un error es mediante la comunidad, esto permite la mejora continua 
    ya que contamos con miles de personas que pueden ayudarnos a encontrar una solucion
 
-6. 
+X 6. 
 7.son servidores locales
 8. FTP o file trasnfer protocol nos permite realizar una transferencia de datos de una manera mas dinamica
-9. 
+X 9. 

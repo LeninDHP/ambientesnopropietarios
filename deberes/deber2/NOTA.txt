@@ -1,0 +1,4 @@
+10/10
+Bien.
+Pocos han mantenido la estructura que explique en clase separando código PHP y HTML.
+Igual pocos han manejado bien el tema de los checkboxes como arreglos para obtener todos los valores.

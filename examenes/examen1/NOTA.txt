@@ -1,0 +1,23 @@
+5/10
+index.php
+  validación de usuario correcta
+  mostrar mensajes parcialmente correcto
+  buen uso de arreglos
+  buen uso de foreach
+  correcta redirección
+  correcto uso de formularios
+
+inicio.php
+  estilos bien (a pesar de ser generados con herramientas)
+  generación de tablas con errores pero funcional.
+  formulario parcialmente funcional.
+  no es checklist si no checkbox
+
+htaccess
+  vacio
+
+config.php
+  vacio
+
+estilos.css
+  vacio
