@@ -1,0 +1,28 @@
+#nombre
+{
+    margin-left: 120px;
+}
+#apellido
+{
+    margin-left: 116px;
+}
+#direccion
+{
+    margin-left: 101px;
+}
+#telefono
+{
+    margin-left: 104px;
+}
+#estado_civil
+{
+    margin-left: 78px;
+}
+#departamento
+{
+    margin-left: 55px;
+}
+.style1
+{
+    font-family: "Arial Black";
+}
