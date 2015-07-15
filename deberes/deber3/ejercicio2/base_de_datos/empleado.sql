@@ -26,15 +26,18 @@ SET time_zone = "+00:00";
 -- Estructura de tabla para la tabla `empleado`
 --
 
-CREATE TABLE IF NOT EXISTS `empleado` (
-`id` int(10) unsigned NOT NULL,
-  `nombre` varchar(30) DEFAULT NULL,
-  `apellido` varchar(30) DEFAULT NULL,
-  `fechadenacimiento` char(10) DEFAULT NULL,
-  `direccion` varchar(128) DEFAULT NULL,
-  `telefono` char(10) DEFAULT NULL,
-  `estado_civil` varchar(30) DEFAULT NULL,
-  `departamento` varchar(30) DEFAULT NULL
+USE empleado
+
+
+CREATE TABLE empleado (
+id int(10) unsigned NOT NULL,
+  nombre varchar(30) DEFAULT NULL,
+  apellido varchar(30) DEFAULT NULL,
+  fechadenacimiento char(10) DEFAULT NULL,
+  direccion varchar(128) DEFAULT NULL,
+  telefono char(10) DEFAULT NULL,
+ estado_civil varchar(30) DEFAULT NULL,
+  departamento varchar(30) DEFAULT NULL
 ) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
 
 --
@@ -53,8 +56,8 @@ INSERT INTO `empleado` (`id`, `nombre`, `apellido`, `fechadenacimiento`, `direcc
 --
 -- Indices de la tabla `empleado`
 --
-ALTER TABLE `empleado`
- ADD PRIMARY KEY (`id`);
+ALTER TABLE empleado
+ ADD PRIMARY KEY (id);
 
 --
 -- AUTO_INCREMENT de las tablas volcadas
@@ -63,8 +66,8 @@ ALTER TABLE `empleado`
 --
 -- AUTO_INCREMENT de la tabla `empleado`
 --
-ALTER TABLE `empleado`
-MODIFY `id` int(10) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=4;
+ALTER TABLE empleado
+MODIFY id int(10) unsigned NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=4;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

@@ -57,7 +57,7 @@ if($conn->connect_error)
 	</span>
 	<input type="text" name="telefono" value="" id="telefono" class="style1">
     <br class="style1" />
-    </br>
+    </br
 </div>
 <div>
 	<span class="style1">
